@@ -1,0 +1,38 @@
+.carousel-caption p{
+    right: 80%;
+    text-align: right;
+    background-color: black;
+    max-width: 30%;
+    left: auto;
+    padding:5px;
+}
+.carousel-caption h1 {
+    text-align: right;
+    background-color: black;
+    text-align: center;
+    max-width: 20%;
+}
+.carousel-caption h4 {
+    right: 5%;
+    text-align: left;
+    background-color: black;
+    max-width: 25%;
+    left: auto;
+    padding:5px;
+}
+.btn-light{
+    margin-left: 80%;
+}
+h4 {
+    text-align: center;
+    margin: 20px;
+}
+.card {
+    margin-bottom: 50px;
+}
+.col-3 img {
+    border-radius: 50%;
+}
+footer {
+    background-color: aliceblue;
+}
